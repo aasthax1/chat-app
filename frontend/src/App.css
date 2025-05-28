@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+}
+
+form input {
+  margin-right: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
